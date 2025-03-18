@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ddf23707b425fc0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec490a87ff9bbedf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ca1940628cf022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Netzwerk/ipv4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ipv4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b03600fa22f8840",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb3a1c234fd5425b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202a7b40c28c99d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c3fb00164a0b054",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b27f8e88722d2d12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cafe686c041605b",
+    "type": "split",
+    "children": [
+      {
+        "id": "283c59b81b877b0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d515723cb79282",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Themen/Projektmanagement/netzplan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for netzplan"
+            }
+          },
+          {
+            "id": "a41655334c4bef07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Themen/Projektmanagement/netzplan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from netzplan"
+            }
+          },
+          {
+            "id": "d330eb5b0418fc89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6e6b6de57e6bd6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Themen/Netzwerk/ipv4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ipv4"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "50ca1940628cf022",
+  "lastOpenFiles": [
+    "Themen/Projektmanagement/netzplan.md",
+    "Themen/Untitled.canvas",
+    "Themen/Netzwerk/ipv6.md",
+    "Themen/Netzwerk/mac-adresse.md",
+    "Themen/Netzwerk/ipv4.md",
+    "Themen/Projektmanagement/4-phasen-modell.md",
+    "Themen/Projektmanagement/projektmanagement.md",
+    "Themen/Projektmanagement/wasserfallmodell.md",
+    "Themen/Projektmanagement/smart-ziele.md",
+    "Themen/Projektmanagement/lasten-und-pflichtenheft.md",
+    "Themen/Projektmanagement/gantt-diagramm.md",
+    "Themen/Netzwerk/tcpip-modell.md",
+    "Themen/Netzwerk/osi-schichtmodell.md",
+    "Themen/Netzwerk/ip-adresse.md",
+    "Themen",
+    "2025-03-18.md",
+    "Untitled.canvas",
+    "Netzwerk/Untitled.md",
+    "Themen/Wirtschaft und Politik/vertraege-und-vertragsarten.md",
+    "Themen/Wirtschaft und Politik/rechtsformen.md",
+    "Themen/Wirtschaft und Politik/organisationsformen.md",
+    "Themen/Wirtschaft und Politik/marktformen.md",
+    "Themen/Wirtschaft und Politik/lieferschein-und-rechnung.md",
+    "Themen/Wirtschaft und Politik/leasing-und-finanzierung.md",
+    "Themen/Wirtschaft und Politik/kredite-und-darlehen.md",
+    "Themen/Wirtschaft und Politik/kaeufermarkt-und-verkaeufermarkt.md",
+    "Themen/Wirtschaft und Politik/fuehrungsstile.md",
+    "Themen/Wirtschaft und Politik/angebote.md",
+    "Wirtschaft und Politik/vertraege-und-vertragsarten.mdx",
+    "Wirtschaft und Politik/rechtsformen.mdx",
+    "Wirtschaft und Politik/organisationsformen.mdx",
+    "Wirtschaft und Politik/marktformen.mdx",
+    "Wirtschaft und Politik/lieferschein-und-rechnung.mdx",
+    "Wirtschaft und Politik/leasing-und-finanzierung.mdx",
+    "Wirtschaft und Politik/kredite-und-darlehen.mdx",
+    "Wirtschaft und Politik/kaeufermarkt-und-verkaeufermarkt.mdx",
+    "Wirtschaft und Politik/fuehrungsstile.mdx"
+  ]
+}
